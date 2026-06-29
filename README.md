@@ -15,7 +15,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandana-sureshvaran)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sandanasureshvaran@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sandana1918&style=flat-square&color=7C6CF0&label=Profile+views)](https://github.com/sandana1918)
 
 </div>

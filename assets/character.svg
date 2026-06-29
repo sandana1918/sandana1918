@@ -1,0 +1,58 @@
+<svg viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pixel coder at a laptop" shape-rendering="crispEdges">
+  <defs>
+    <radialGradient id="cglow" cx="0.5" cy="0.55" r="0.5">
+      <stop offset="0" stop-color="#7C6CF0" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7C6CF0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="90" cy="96" r="86" fill="url(#cglow)"/>
+
+  <!-- pixel art on a 18x18 grid, cell = 10px -->
+  <!-- hair -->
+  <g fill="#2b2540">
+    <rect x="60" y="30" width="60" height="10"/>
+    <rect x="50" y="40" width="80" height="10"/>
+    <rect x="50" y="50" width="10" height="20"/>
+    <rect x="120" y="50" width="10" height="20"/>
+  </g>
+  <!-- face -->
+  <g fill="#f0c9a8">
+    <rect x="60" y="50" width="60" height="40"/>
+  </g>
+  <!-- glasses -->
+  <g fill="#1b2030">
+    <rect x="64" y="62" width="18" height="10"/>
+    <rect x="98" y="62" width="18" height="10"/>
+    <rect x="82" y="64" width="16" height="4"/>
+  </g>
+  <g fill="#7C6CF0">
+    <rect x="68" y="64" width="8" height="6"/>
+    <rect x="102" y="64" width="8" height="6"/>
+  </g>
+  <!-- smile -->
+  <rect x="78" y="80" width="24" height="4" fill="#c98e6a"/>
+
+  <!-- hoodie body -->
+  <g fill="#7C6CF0">
+    <rect x="48" y="100" width="84" height="50"/>
+    <rect x="58" y="92" width="64" height="10"/>
+  </g>
+  <!-- hoodie shading / pocket -->
+  <rect x="66" y="120" width="48" height="20" fill="#6354d6"/>
+  <rect x="86" y="92" width="8" height="24" fill="#5a4cc4"/>
+  <!-- collar -->
+  <rect x="78" y="92" width="24" height="8" fill="#f0c9a8"/>
+
+  <!-- arms -->
+  <rect x="38" y="104" width="12" height="36" fill="#6354d6"/>
+  <rect x="130" y="104" width="12" height="36" fill="#6354d6"/>
+  <!-- hands -->
+  <rect x="40" y="138" width="14" height="10" fill="#f0c9a8"/>
+  <rect x="126" y="138" width="14" height="10" fill="#f0c9a8"/>
+
+  <!-- laptop -->
+  <rect x="44" y="150" width="92" height="8" fill="#cdd2e0"/>
+  <rect x="52" y="146" width="76" height="6" fill="#1b2030"/>
+  <rect x="56" y="147" width="68" height="4" fill="#7C6CF0"/>
+</svg>
