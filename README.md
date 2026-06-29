@@ -1,193 +1,120 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=200&section=header&text=Sandana%20Sureshvaran&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%7C%20DevOps%20%7C%20Systems%20Builder&descAlignY=58&descSize=18" />
+<img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/banner-network.svg" alt="Sandana Sureshvaran — Full-Stack & Systems Engineer" width="100%" />
 
-<!-- Typing animation -->
+<br/>
+
+<img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/character.svg" alt="pixel coder" width="270" />
+
+<br/>
+
 <a href="https://github.com/sandana1918">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+systems+that+think+and+heal+themselves+%F0%9F%A4%96;Full-Stack+%7C+DevOps+%7C+AI+Engineering;Next.js+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Turning+complex+problems+into+elegant+solutions+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=7C6CF0&center=true&vCenter=true&width=660&height=34&lines=Full-Stack+%26+Systems+Engineer;Building+production-grade+applications+end-to-end;From+React+interfaces+to+Kubernetes+infrastructure" alt="tagline" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-sandana1918-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandana1918)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandana-sureshvaran)
-[![Profile Views](https://komarev.com/ghpvc/?username=sandana1918&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/sandana1918)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandana-sureshvaran)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sandana1918&style=flat-square&color=7C6CF0&label=Profile+views)](https://github.com/sandana1918)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-```python
-class Sandana:
-    name       = "Sandana Sureshvaran"
-    username   = "sandana1918"
-    role       = "Full-Stack Engineer & Systems Builder"
-    passion    = ["AI-powered systems", "DevOps", "Distributed architectures"]
-    currently  = "Building things that think, heal, and scale 🚀"
-    fun_fact   = "I gave my CI/CD pipeline the ability to fix its own bugs 🤯"
-
-    def greet(self):
-        return "Let's build something remarkable together!"
-```
+I'm a full-stack and systems engineer who builds production-grade applications end-to-end — from responsive React frontends to distributed backends and cloud infrastructure. My work spans real-time systems, AI-powered tooling, and scalable platform architecture, with a consistent focus on reliability, security, and clean engineering.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Tech |
+|---|---|---|
+| **[KaryaMesh AI](https://github.com/sandana1918/KaryaMesh-AI)** | A local-first AI research workspace for querying across documents and the web, featuring hybrid retrieval, multi-agent reasoning, and claim-level citations. | `Next.js` · `FastAPI` · `pgvector` · `Neo4j` · `Ollama` |
+| **[FlowState](https://github.com/sandana1918/FlowState)** | A real-time incident correlation engine that monitors live containers, detects metric anomalies, and traces them to the responsible deployment. | `TypeScript` · `Node.js` · `Kubernetes` · `Socket.io` |
+| **[ChatGrid](https://github.com/sandana1918/ChatGrid-A-Distributed-Real-Time-Chat-Notification-System)** | A distributed real-time chat and notification platform with presence tracking, delivery receipts, and offline persistence across independent services. | `React` · `Node.js` · `MongoDB` · `Redis` · `BullMQ` |
+| **[MediTrack](https://github.com/sandana1918/MediTrack)** | A production-style healthcare management platform with AES-256 encrypted records, role-based dashboards, billing, and email/SMS notifications. | `Next.js` · `Node.js` · `MongoDB` · `Stripe` |
+| **[CollabDrive](https://github.com/sandana1918/CollabDrive)** | A cloud storage and collaborative editing platform with real-time co-editing, role-based sharing, version history, and AWS S3 storage. | `React` · `Node.js` · `AWS S3` · `Socket.io` |
+| **[MendOPs](https://github.com/sandana1918/MendOPs-Autonomous-Self-Healing-CI-CD-Pipeline-)** | An AI-driven CI/CD pipeline that automatically generates, validates, and applies patches for failing tests within a secure sandboxed environment. | `Python` · `FastAPI` · `Docker` · `Prometheus` |
 
-### 🔧 [MendOPs](https://github.com/sandana1918/MendOPs-Autonomous-Self-Healing-CI-CD-Pipeline-)
-**Autonomous Self-Healing CI/CD Pipeline**
-
-AI that watches your tests fail — then fixes them itself. Generates patches, validates with AST security guards, runs them sandboxed, and commits the fix to your PR.
-
-`Python` `FastAPI` `Docker` `OpenAI` `Prometheus` `Grafana`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [KaryaMesh AI](https://github.com/sandana1918/KaryaMesh-AI)
-**Local AI Research Workspace**
-
-Query across PDFs, CSVs, Markdown, and websites with multi-agent roles (Planner, Critic, Synthesizer), hybrid retrieval, and claim-level citations.
-
-`Next.js 15` `FastAPI` `pgvector` `Neo4j` `Ollama` `Redis`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [FlowState](https://github.com/sandana1918/FlowState)
-**Real-Time Incident Correlation Engine**
-
-Watches live Docker containers, detects anomalies via rolling Z-score, correlates them to deploys, calculates blast radius — streamed to a React dashboard with zero polling.
-
-`TypeScript` `Node.js` `Kubernetes` `Socket.io` `Redis` `Recharts`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 [ChatGrid](https://github.com/sandana1918/ChatGrid-A-Distributed-Real-Time-Chat-Notification-System)
-**Distributed Real-Time Chat System**
-
-WhatsApp-style platform demonstrating distributed coordination: JWT auth, group chats, typing indicators, delivery receipts, and offline notification persistence.
-
-`React` `Socket.io` `MongoDB` `Redis` `BullMQ` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [MediTrack](https://github.com/sandana1918/MediTrack)
-**Healthcare Management Platform**
-
-Production-grade fullstack platform for patients, doctors, and admins — with AES-256 encrypted health records, Stripe billing, and SMS/email notifications.
-
-`Next.js 14` `Node.js` `MongoDB` `Twilio` `Stripe` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ [CollabDrive](https://github.com/sandana1918/CollabDrive)
-**Cloud Storage & Collaborative Editing**
-
-Google Drive-inspired platform with nested files, real-time collaborative editing, role-based sharing, version history, and AWS S3 storage.
-
-`React` `Node.js` `MongoDB` `AWS S3` `Tiptap` `Socket.io`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🔽 More Projects</b></summary>
-
-<br/>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 📝 [NoteForge](https://github.com/sandana1918/NoteForge-notes-exchange-portal) | Student notes exchange portal with JWT auth, search/filter, and voting | React, Node.js, MongoDB |
-| 🎮 [Multiplayer Game](https://github.com/sandana1918/Multiplayer_Game) | PvP car shooting & Snake game with AI opponents and dynamic difficulty | C++, SFML |
-| 💰 [FinanceTracker](https://github.com/sandana1918/FinanceTracker) | Desktop app to track income/expenses with charts and CSV export | Python, Tkinter, SQLite, pandas |
-| 📚 [StudySpace](https://github.com/sandana1918/StudySpace_Student-Resource-Hub) | Student productivity hub: notes, timetable, Pomodoro timer | HTML/CSS, PHP, MySQL |
-| 🛡️ [VisionPulse](https://github.com/sandana1918/visionpulse) | AI surveillance: weapon detection, face recognition, vehicle tracking | Python, YOLOv8, DeepFace, OpenCV |
-
-</details>
+<sub>Additional projects: a C++ multiplayer game suite, a desktop finance tracker, a student notes-exchange portal, and an AI surveillance system. <a href="https://github.com/sandana1918?tab=repositories">View all repositories →</a></sub>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Databases & Infra**
+**Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **AI / ML**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+---
+
+## GitHub Stats
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sandana1918&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&icon_color=7C6CF0&text_color=8b93a7&hide=contribs" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandana1918&layout=compact&langs_count=8&hide_border=true&theme=transparent&text_color=8b93a7&title_color=7C6CF0" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## Contribution Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandana1918&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandana1918&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
+<!-- GitHub contribution heatmap (calendar), themed to the profile palette -->
+<img width="95%" src="https://ghchart.rshah.org/7C6CF0/sandana1918" alt="Sandana's GitHub contribution heatmap" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandana1918&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=F472B6&currStreakLabel=6EE7F7"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandana1918&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:6EE7F7&height=100&section=footer"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sandana1918&hide_border=true&background=00000000&ring=7C6CF0&fire=FB7185&currStreakLabel=7C6CF0&sideLabels=8b93a7&dates=8b93a7&currStreakNum=8b93a7&sideNums=8b93a7" />
 
 </div>
