@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/banner-network.svg" alt="Sandana Sureshvaran — Full-Stack & Systems Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/banner-terminal.svg" alt="Sandana Sureshvaran — Full-Stack & Systems Engineer" width="100%" />
 
 <br/>
 
@@ -35,21 +35,6 @@
 ## About
 
 I'm a full-stack and systems engineer who builds production-grade applications end-to-end — from responsive React frontends to distributed backends and cloud infrastructure. My work spans real-time systems, AI-powered tooling, and scalable platform architecture, with a consistent focus on reliability, security, and clean engineering.
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[KaryaMesh AI](https://github.com/sandana1918/KaryaMesh-AI)** | A local-first AI research workspace for querying across documents and the web, featuring hybrid retrieval, multi-agent reasoning, and claim-level citations. | `Next.js` · `FastAPI` · `pgvector` · `Neo4j` · `Ollama` |
-| **[FlowState](https://github.com/sandana1918/FlowState)** | A real-time incident correlation engine that monitors live containers, detects metric anomalies, and traces them to the responsible deployment. | `TypeScript` · `Node.js` · `Kubernetes` · `Socket.io` |
-| **[ChatGrid](https://github.com/sandana1918/ChatGrid-A-Distributed-Real-Time-Chat-Notification-System)** | A distributed real-time chat and notification platform with presence tracking, delivery receipts, and offline persistence across independent services. | `React` · `Node.js` · `MongoDB` · `Redis` · `BullMQ` |
-| **[MediTrack](https://github.com/sandana1918/MediTrack)** | A production-style healthcare management platform with AES-256 encrypted records, role-based dashboards, billing, and email/SMS notifications. | `Next.js` · `Node.js` · `MongoDB` · `Stripe` |
-| **[CollabDrive](https://github.com/sandana1918/CollabDrive)** | A cloud storage and collaborative editing platform with real-time co-editing, role-based sharing, version history, and AWS S3 storage. | `React` · `Node.js` · `AWS S3` · `Socket.io` |
-| **[MendOPs](https://github.com/sandana1918/MendOPs-Autonomous-Self-Healing-CI-CD-Pipeline-)** | An AI-driven CI/CD pipeline that automatically generates, validates, and applies patches for failing tests within a secure sandboxed environment. | `Python` · `FastAPI` · `Docker` · `Prometheus` |
-
-<sub>Additional projects: a C++ multiplayer game suite, a desktop finance tracker, a student notes-exchange portal, and an AI surveillance system. <a href="https://github.com/sandana1918?tab=repositories">View all repositories →</a></sub>
 
 ---
 
@@ -121,22 +106,12 @@ I'm a full-stack and systems engineer who builds production-grade applications e
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sandana1918&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&icon_color=7C6CF0&text_color=8b93a7&hide=contribs" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandana1918&layout=compact&langs_count=8&hide_border=true&theme=transparent&text_color=8b93a7&title_color=7C6CF0" />
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<!-- GitHub contribution heatmap (calendar), themed to the profile palette -->
-<img width="95%" src="https://ghchart.rshah.org/7C6CF0/sandana1918" alt="Sandana's GitHub contribution heatmap" />
+<!-- GitHub contribution heatmap (calendar), default GitHub green -->
+<img width="95%" src="https://ghchart.rshah.org/sandana1918" alt="Sandana's GitHub contribution heatmap" />
 
 <br/><br/>
 
