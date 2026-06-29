@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="wave">
+  <g fill="none" stroke="#e6ab82" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 12V6.6a1.4 1.4 0 0 1 2.8 0V11"/>
+    <path d="M9.8 11V5.4a1.4 1.4 0 0 1 2.8 0V11"/>
+    <path d="M12.6 11V6.2a1.4 1.4 0 0 1 2.8 0V12.5"/>
+    <path d="M15.4 12.5v1.6a6 6 0 0 1-6 6 5 5 0 0 1-5-5v-1.4a1.4 1.4 0 0 1 2.8 0"/>
+  </g>
+  <g stroke="#fbbf24" stroke-width="1.6" stroke-linecap="round">
+    <path d="M18 4.5l1.8-1.8"/>
+    <path d="M19 8h2.4"/>
+    <path d="M17.6 6.4l1.6 0"/>
+  </g>
+</svg>

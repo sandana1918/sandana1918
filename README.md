@@ -32,9 +32,23 @@
 
 ---
 
-## About
+## <img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/icons/wave.svg" height="26" align="top" /> About Me
 
-I'm a full-stack and systems engineer who builds production-grade applications end-to-end — from responsive React frontends to distributed backends and cloud infrastructure. My work spans real-time systems, AI-powered tooling, and scalable platform architecture, with a consistent focus on reliability, security, and clean engineering.
+I'm **Sandana Sureshvaran**, a full-stack and systems engineer who likes building things that are genuinely hard — and making them feel effortless to use.
+
+My sweet spot is the **full vertical slice**: designing a clean React/Next.js interface, wiring it to a well-structured FastAPI or Node backend, modeling the data thoughtfully in PostgreSQL or MongoDB, and then shipping the whole thing on Docker and Kubernetes without losing sleep over reliability. I care about the parts users never see — the encryption, the retry logic, the observability — just as much as the parts they do.
+
+Lately I've been drawn to three kinds of problems:
+
+- <img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/icons/brain.svg" height="18" align="absmiddle" /> &nbsp;**AI-powered tooling** — local-first research workspaces with hybrid retrieval, multi-agent reasoning, and citations you can actually trust ([KaryaMesh AI](https://github.com/sandana1918/KaryaMesh-AI)).
+- <img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/icons/bolt.svg" height="18" align="absmiddle" /> &nbsp;**Real-time & distributed systems** — incident correlation engines, presence-aware chat, and anything that has to stay consistent across many moving services ([FlowState](https://github.com/sandana1918/FlowState), [ChatGrid](https://github.com/sandana1918/ChatGrid-A-Distributed-Real-Time-Chat-Notification-System)).
+- <img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/icons/shield-lock.svg" height="18" align="absmiddle" /> &nbsp;**Production-grade platforms** — healthcare systems with AES-256 encrypted records, collaborative cloud storage, and CI/CD pipelines that fix their own failing tests ([MediTrack](https://github.com/sandana1918/MediTrack), [CollabDrive](https://github.com/sandana1918/CollabDrive), [MendOPs](https://github.com/sandana1918/MendOPs-Autonomous-Self-Healing-CI-CD-Pipeline-)).
+
+I move comfortably across the stack — **React components down to Kubernetes manifests** — and I'm happiest when a project forces me to learn something new along the way (which, conveniently, is most of them).
+
+**What I value:** clean architecture, secure-by-default thinking, readable code, and shipping. **What I'm looking for:** ambitious problems and good people to solve them with.
+
+> <img src="https://raw.githubusercontent.com/sandana1918/sandana1918/main/assets/icons/spark.svg" height="18" align="absmiddle" /> &nbsp;Currently open to collaboration, internships, and interesting engineering challenges — feel free to reach out.
 
 ---
 
