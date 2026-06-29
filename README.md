@@ -14,8 +14,18 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandana-sureshvaran)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sandanasureshvaran@gmail.com)
+<a href="https://linkedin.com/in/sandana-sureshvaran">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sandanasureshvaran@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/sandana1918">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=sandana1918&style=flat-square&color=7C6CF0&label=Profile+views)](https://github.com/sandana1918)
 
 </div>
@@ -44,6 +54,19 @@ I'm a full-stack and systems engineer who builds production-grade applications e
 ---
 
 ## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,php,react,nextjs,tailwind,vite&theme=dark" alt="languages and frontend" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,redis,docker,kubernetes&theme=dark" alt="backend, databases and devops" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,githubactions,nginx,prometheus,grafana,pytorch,opencv,git&theme=dark" alt="cloud, observability and AI" />
+
+</div>
+
+<details>
+<summary><b>Full breakdown by category</b></summary>
+
+<br/>
 
 **Languages**
 
@@ -94,6 +117,8 @@ I'm a full-stack and systems engineer who builds production-grade applications e
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+</details>
+
 ---
 
 ## GitHub Stats
@@ -116,5 +141,13 @@ I'm a full-stack and systems engineer who builds production-grade applications e
 <br/><br/>
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sandana1918&hide_border=true&background=00000000&ring=7C6CF0&fire=FB7185&currStreakLabel=7C6CF0&sideLabels=8b93a7&dates=8b93a7&currStreakNum=8b93a7&sideNums=8b93a7" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=7C6CF0&center=true&vCenter=true&width=520&height=45&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Always+open+to+collaboration+%E2%80%94+let's+build.;Reach+me+on+LinkedIn+or+email." alt="footer" />
 
 </div>
